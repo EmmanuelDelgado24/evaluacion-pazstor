@@ -1,0 +1,4 @@
+.p{
+    white-space: pre-wrap; /* Preserve line breaks and spaces */
+    word-break: break-word; 
+  }

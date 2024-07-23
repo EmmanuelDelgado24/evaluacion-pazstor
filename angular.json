@@ -29,7 +29,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/apexcharts/dist/apexcharts.min.js"]
           },
           "configurations": {
             "production": {
@@ -92,5 +92,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "02a9de06-e7ab-48b7-9059-18626f2236d2"
   }
 }
